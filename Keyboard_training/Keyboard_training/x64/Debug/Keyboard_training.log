@@ -1,0 +1,16 @@
+﻿  Keyboard_training.cpp
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(27,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(43,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(43,28): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(51,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(51,34): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(89,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(89,25): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(115,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(144,11): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(144,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(196,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(196,36): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(215,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Keyboard_training\Keyboard_training\Keyboard_training.cpp(215,35): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Keyboard_training.vcxproj -> C:\Keyboard_training\x64\Debug\Keyboard_training.exe
